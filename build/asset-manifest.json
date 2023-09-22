@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/calculadora_ComReact/static/css/main.ef15d139.css",
+    "main.js": "/calculadora_ComReact/static/js/main.1dc03c3f.js",
+    "static/js/787.a0d8d0d4.chunk.js": "/calculadora_ComReact/static/js/787.a0d8d0d4.chunk.js",
+    "static/media/RobotoMono-Thin.ttf": "/calculadora_ComReact/static/media/RobotoMono-Thin.1a9534fd24de76752477.ttf",
+    "index.html": "/calculadora_ComReact/index.html",
+    "main.ef15d139.css.map": "/calculadora_ComReact/static/css/main.ef15d139.css.map",
+    "main.1dc03c3f.js.map": "/calculadora_ComReact/static/js/main.1dc03c3f.js.map",
+    "787.a0d8d0d4.chunk.js.map": "/calculadora_ComReact/static/js/787.a0d8d0d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef15d139.css",
+    "static/js/main.1dc03c3f.js"
+  ]
+}
